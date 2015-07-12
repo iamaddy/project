@@ -1,0 +1,18 @@
+[
+    { 
+    	"caption": "-", 
+    	"id": "side-bar-start-separator"
+    },
+    { 
+    	"caption": "新建项目...",
+    	"id": "side-bar-new-project",
+    	"command": "project",
+    	"args": {
+            "paths": [] // 这个参数必须要有，否则当前的路径一直是selectView所在路径
+        }
+    },
+    {
+    	"caption": "-",
+    	"id": "side-bar-end-separator" 
+    }
+]

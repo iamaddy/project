@@ -1,0 +1,8 @@
+[{
+    "id": "file",
+    "children": [{
+        "caption": "新建项目...",
+        "id": "New Project",
+        "command": "project"
+    }]
+}]
